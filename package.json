@@ -1,0 +1,18 @@
+{
+  "name": "hype-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "start": "nodemon bot"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "discord.js": "^13.5.1",
+    "nodemon": "^2.0.15"
+  }
+}
